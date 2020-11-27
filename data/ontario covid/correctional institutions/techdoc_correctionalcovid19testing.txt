@@ -1,0 +1,5 @@
+*The data reflects all inmates who have been tested, regardless of who remains in our custody at this time. Inmates may be tested more than once. 
+** Numbers reflect the total number of positive test results rather than total number of positive patients.
+
+* Les données tiennent compte de tous les détenus ayant fait l’objet de tests, peu importe s’ils sont toujours sous garde présentement. Chaque détenu peut faire l’objet de plusieurs tests.
+** Les chiffres représentent le nombre total de résultats de test positifs plutôt que le nombre total de patients positifs.
