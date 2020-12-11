@@ -13,3 +13,16 @@ http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data
 ## Ontario
 https://data.ontario.ca/dataset?keywords_en=COVID-19
 * Note: The GEOJSON data file for Ontario confirmed positive cases is not included in this data directory due to upload limitations.
+
+## Saskatchewan
+https://dashboard.saskatchewan.ca/health-wellness/covid-19/cases
+
+## GitHub Sources
+
+### COVID-19 Canada Gov Data
+https://github.com/jeanpaulrsoucy/covid-19-canada-gov-data
+
+### COVID-19 Canada
+https://github.com/ishaberry/Covid19Canada
+* Note: This is the data source for the <a href="https://opencovid.ca/">COVID-19 Canada Open Data Working Group.</a>
+
