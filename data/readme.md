@@ -28,5 +28,5 @@ https://github.com/ishaberry/Covid19Canada
 
 ## Miscellaneous Sources
 https://docs.google.com/spreadsheets/d/1M_RzojK0vwF9nAozI7aoyLpPU8EA1JEqO6rq0g1iebU/edit#gid=0
-* Note: This data is on deaths in residential care facilities in Canada. The data has been compiled by Nora Loreto (https://noraloreto.ca/).
+* Note: This data is on deaths in residential care facilities in Canada. The data has been compiled by Nora Loreto (https://noraloreto.ca/). An associated Tableau dashboard developed by Andrew Lam can be found here https://public.tableau.com/profile/andrew.lam3968#!/vizhome/CanadaLTCCOVID-19Deaths/LTC_Deaths_Canada
 
