@@ -26,3 +26,7 @@ https://github.com/jeanpaulrsoucy/covid-19-canada-gov-data
 https://github.com/ishaberry/Covid19Canada
 * Note: This is the data source for the <a href="https://opencovid.ca/">COVID-19 Canada Open Data Working Group.</a>
 
+## Miscellaneous Sources
+https://docs.google.com/spreadsheets/d/1M_RzojK0vwF9nAozI7aoyLpPU8EA1JEqO6rq0g1iebU/edit#gid=0
+* Note: This data is on deaths in residential care facilities in Canada. The data has been compiled by Nora Loreto (https://noraloreto.ca/).
+
