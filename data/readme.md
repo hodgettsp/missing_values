@@ -14,6 +14,8 @@ http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data
 https://data.ontario.ca/dataset?keywords_en=COVID-19
 * Note: The GEOJSON data file for Ontario confirmed positive cases is not included in this data directory due to upload limitations.
 
+https://data.ontario.ca/dataset?q=covid
+
 ## Saskatchewan
 https://dashboard.saskatchewan.ca/health-wellness/covid-19/cases
 
