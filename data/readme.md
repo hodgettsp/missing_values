@@ -30,6 +30,8 @@ https://github.com/ishaberry/Covid19Canada
 
 ### epidemics/COVIDNPIs: Inferring the effectiveness of government interventions against COVID-19 (Brauner et al., 2020)
 https://github.com/epidemics/COVIDNPIs/tree/1.3.6
+* Note: This data was used in the article 'Inferring the effectiveness of government interventions against COVID-19' by Brauner et al. (2020)
+* link to article: https://science.sciencemag.org/content/sci/early/2020/12/15/science.abd9338.full.pdf
 
 ## Miscellaneous Sources
 https://docs.google.com/spreadsheets/d/1M_RzojK0vwF9nAozI7aoyLpPU8EA1JEqO6rq0g1iebU/edit#gid=0
